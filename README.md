@@ -27,17 +27,11 @@ https://blog.csdn.net/sinat_35861727/article/details/73692794
 
 ## 准备工作
 
-### 小程序
+### 监听设备
 
-1.开通了微信支付，并且小程序绑定了微信支付；
+安装xposed作为监听
 
-2.准备好小程序的appid，微信支付的商户号，支付秘钥。
+https://repo.xposed.info/module/de.robv.android.xposed.installer
 
-
-
-
-### 要求对接线下
-
-办理商户wechat
-
-https://pay.weixin.qq.com/static/applyment_guide/applyment_detail_miniapp.shtml
+相关教程示例
+https://github.com/Tinywan/xpay
